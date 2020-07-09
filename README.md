@@ -1,9 +1,9 @@
 ### Hi there, I'm Jun! 👋
 
-😄   Frontend engineer based in Vancouver. My specialty is React.js and TypeScript!    
-🌱   I’m currently learning Next.js to make my code better.  
-🔥   Passionate about writing readable and maintainable code.   
-🍵   In my free time, learning foreign languages.    
+😄 &nbsp; Frontend engineer based in Vancouver. My specialty is React.js and TypeScript!    
+🌱 &nbsp; I’m currently learning Next.js to make my code better.  
+🔥 &nbsp; Passionate about writing readable and maintainable code.   
+🍵 &nbsp; In my free time, learning foreign languages.    
 
 Thank you!
 
