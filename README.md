@@ -7,6 +7,7 @@
 
 Feel free to follow me, thank you!
 
+<br/>
 
 #### Tech stack 😎 
 - Specialties: React.js and TypeScript   
