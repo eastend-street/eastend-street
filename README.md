@@ -6,7 +6,7 @@
 🍵 &nbsp; In my free time, learning foreign languages    
 🎓 &nbsp; [My Portfolio website](https://junyamada.info/)  
 
-Feel free to follow me, thank you!  
+Feel free to follow &amp; reach out to me, thank you!  
  
 
 <br/>
