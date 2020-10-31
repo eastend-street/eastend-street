@@ -13,9 +13,9 @@ Feel free to follow &amp; reach out to me!
 
 #### Tech stack 😎 
 - Specialties: React.js and TypeScript   
-- Languages: JavaScript, Python, HTML5, CSS3, Sass  
-- Framework: Next.js, Vue.js, Node.js, Django  
-- Others: Jest, Docker, Google Cloud Platform, MySQL  
+- Languages: JavaScript, Python, HTML5, CSS3 and Sass  
+- Framework: Next.js, Vue.js, Node.js, Django and Jest  
+- Others: Docker, Google Cloud Platform and MySQL  
 
 
 <!--
