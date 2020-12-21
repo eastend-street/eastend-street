@@ -3,7 +3,7 @@
 😄 &nbsp; Frontend engineer. My specialty is React.js and TypeScript  
 🌱 &nbsp; Currently learning Next.js to make a new my personal project  
 🔥 &nbsp; Passionate about writing readable and maintainable code     
-🍵 &nbsp; Free time: learning foreign languages    
+🍵 &nbsp; Free time: Learning foreign languages    
 🎓 &nbsp; [My Portfolio website](https://junyamada.info/)  
 
 Feel free to follow &amp; reach out to me!  
