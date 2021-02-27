@@ -1,7 +1,7 @@
 ### Hi there, I'm Jun! 👋
 
 😄 &nbsp; Frontend engineer. My specialty is React.js and TypeScript  
-🌱 &nbsp; Currently learning Next.js to make a new my personal project  
+🌱 &nbsp; Currently learning GraphQL to make a new my personal project  
 🔥 &nbsp; Passionate about writing readable and maintainable code     
 🍵 &nbsp; Free time: Learning foreign languages    
 🎓 &nbsp; [My Portfolio website](https://junyamada.info/)  
