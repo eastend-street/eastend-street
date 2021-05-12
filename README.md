@@ -11,7 +11,7 @@ Feel free to follow &amp; reach out to me!
 
 <br/>
 
-#### Tech stack 😎 
+### Tech stack 😎 
 - Specialties: React.js and TypeScript   
 - Languages: JavaScript, Python, HTML5, CSS3 and Sass  
 - Framework: Next.js, Vue.js, Node.js, Django, Jest and React Testing Library  
