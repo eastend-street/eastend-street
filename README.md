@@ -1,6 +1,6 @@
 ### Hi there, I'm Jun! 👋
 
-😄 &nbsp; Frontend engineer. My specialty is React.js and TypeScript  
+😄 &nbsp; Frontend engineer. Specializes in React.js and TypeScript   
 🌱 &nbsp; Currently learning GraphQL to make a new my personal project  
 🔥 &nbsp; Passionate about writing readable and maintainable code     
 🍵 &nbsp; Free time: Learning foreign languages    
@@ -15,7 +15,7 @@ Feel free to follow &amp; reach out to me!
 - Specialties: React.js and TypeScript   
 - Languages: JavaScript, Python, HTML5, CSS3 and Sass  
 - Framework: Next.js, Vue.js, Node.js, Django, Jest and React Testing Library  
-- Others: Docker, Google Cloud Platform and MySQL  
+- Others: GraphQL, Docker, Google Cloud Platform and MySQL  
 
 
 <!--
