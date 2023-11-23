@@ -1,9 +1,9 @@
 ### Hi there, I'm Jun! 👋
 
-😄 &nbsp; Frontend engineer specializes in React.js and TypeScript   
+😄 &nbsp; Frontend engineer specializes in React and TypeScript   
 🌱 &nbsp; Currently learning Remix to make a new personal project  
 🔥 &nbsp; Passionate about writing readable and maintainable code     
-🍵 &nbsp; Free time: Learning foreign languages    
+🍵 &nbsp; Free time: Learning foreign languages
 🎓 &nbsp; [My Portfolio website](https://junyamada.info/)  
 
 Feel free to follow &amp; reach out to me!  
@@ -12,9 +12,9 @@ Feel free to follow &amp; reach out to me!
 <br/>
 
 ### Tech stack 😎 
-- Specialties: React.js and TypeScript   
+- Specialties: React and TypeScript   
 - Languages: JavaScript, Python, HTML5, CSS3, and Sass  
-- Frameworks: Next.js, Node.js, Django, Jest, and React Testing Library  
+- Frameworks: Next.js, Node.js, NestJS, Django, Jest, and React Testing Library  
 - Others: GraphQL, Storybook, Docker, and MySQL  
 
 
