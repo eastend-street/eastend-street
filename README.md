@@ -15,7 +15,7 @@ Feel free to follow &amp; reach out to me!
 - Specialties: React and TypeScript   
 - Languages: JavaScript, Python, HTML5, CSS3, and Sass  
 - Frameworks: Next.js, Node.js, NestJS, Django, Jest, and React Testing Library  
-- Others: GraphQL, Storybook, Docker, and MySQL  
+- Others: GraphQL, Storybook, Docker, and gRPC
 
 
 <!--
