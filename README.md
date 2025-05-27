@@ -4,7 +4,7 @@
 🌱 &nbsp; Currently learning Remix to make a new personal project  
 🔥 &nbsp; Passionate about writing readable and maintainable code     
 🍵 &nbsp; Free time: Learning foreign languages  
-🎓 &nbsp; [My Portfolio website](https://junyamada.info/)  
+🎓 &nbsp; [My Portfolio website](https://junyamada.vercel.app/)  
 
 Feel free to follow &amp; reach out to me!  
  
